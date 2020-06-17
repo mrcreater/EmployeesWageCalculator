@@ -1,0 +1,10 @@
+C:\Users\PARIN\source\repos\A2ParinkumarPatel\A2ParinkumarPatel\bin\Debug\A2ParinkumarPatel.exe.config
+C:\Users\PARIN\source\repos\A2ParinkumarPatel\A2ParinkumarPatel\bin\Debug\A2ParinkumarPatel.exe
+C:\Users\PARIN\source\repos\A2ParinkumarPatel\A2ParinkumarPatel\bin\Debug\A2ParinkumarPatel.pdb
+C:\Users\PARIN\source\repos\A2ParinkumarPatel\A2ParinkumarPatel\obj\Debug\A2ParinkumarPatel.csprojAssemblyReference.cache
+C:\Users\PARIN\source\repos\A2ParinkumarPatel\A2ParinkumarPatel\obj\Debug\A2ParinkumarPatel.Form1.resources
+C:\Users\PARIN\source\repos\A2ParinkumarPatel\A2ParinkumarPatel\obj\Debug\A2ParinkumarPatel.Properties.Resources.resources
+C:\Users\PARIN\source\repos\A2ParinkumarPatel\A2ParinkumarPatel\obj\Debug\A2ParinkumarPatel.csproj.GenerateResource.cache
+C:\Users\PARIN\source\repos\A2ParinkumarPatel\A2ParinkumarPatel\obj\Debug\A2ParinkumarPatel.csproj.CoreCompileInputs.cache
+C:\Users\PARIN\source\repos\A2ParinkumarPatel\A2ParinkumarPatel\obj\Debug\A2ParinkumarPatel.exe
+C:\Users\PARIN\source\repos\A2ParinkumarPatel\A2ParinkumarPatel\obj\Debug\A2ParinkumarPatel.pdb
